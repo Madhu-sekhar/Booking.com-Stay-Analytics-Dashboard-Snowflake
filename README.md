@@ -32,6 +32,8 @@ Accurate monthly metrics
 Correct KPIs
 Dashboard that is easy to interpret
 No data quality issues in the final output
+------------------------------------------------------------
+# Project Summary
 
 Built a hotel analytics dashboard using Snowflake by loading CSV data through internal stages and file formats, transforming data with SQL, and implementing a Bronze–Silver–Gold data model. Created Gold-layer aggregates for bookings and revenue and visualized KPIs using Snowsight.
 Future scope includes automated ingestion, incremental loads, role-based access control, and predictive analytics.
