@@ -11,7 +11,7 @@ Validate booking status values
 Ensure accurate revenue calculations
 
 ## KPIs to Display:
-Total Revenue
+Total Revenue,
 Total Bookings
 
 ## Functional Requirements:
